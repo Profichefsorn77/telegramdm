@@ -1,4 +1,4 @@
-# telegramdm
+# telegramdm-bot
 telegramdm is a telegram dm bot created by yemmix5 that allows users to mass dm users and much more
 
 coded in python by yemmix5
