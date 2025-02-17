@@ -1,9 +1,9 @@
 # telegramdm
-multitool created by yemmix5 that allows users to mass dm on telegram and much more
+telegramdm is a telegram dm bot created by yemmix5 that allows users to mass dm users and much more
 
 coded in python by yemmix5
 a telegram multi-tool that is made to be ban proof, with 100s of features ranging from mass dm, to fake crypto hype. we do it all, while most tools on the market get ur accounts banned after a couple messages this tool is designed from the ground up to be ban evasie with features such as: advaced dmer, that allows users to send messages slowly with 100s of accounts interchanging on each message allow for 1000s of messages to be sent per day with minimal risk of restrictions.
-https://t.me/yemtool
+https://t.me/yemtools
 
 we added pretty much every advertising tool in this program, and tools that allow you to scrape like no other, you can input ur keywords and let the bot scrape, dm, and add users from channels and groups. built with a python gui interface to allow easy understanding of the tools capabilites and features.
 
@@ -20,4 +20,4 @@ below are some images from the latest build:
 ![6](https://github.com/user-attachments/assets/450fc15f-dce7-41fe-acf9-28d0b790d79f)
 ![7](https://github.com/user-attachments/assets/11373a43-af02-4ea5-8dd0-e6e9831bd69d)
 
-currently in beta join the community to get early access! https://t.me/yemtool
+currently in beta join the community to get early access! https://t.me/yemtools
